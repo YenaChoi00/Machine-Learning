@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 머신러닝 스터디
 
 강의: https://www.youtube.com/watch?v=fdWx3QV5n44
